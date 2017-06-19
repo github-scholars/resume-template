@@ -10,12 +10,12 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
+resume_name:                    "Isiah G.Hill, Jr."
+resume_title:                   "Marine Biologist, Animator,and Chef"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+  "smartysport3@gmail.com"
+resume_header_contact_info: "14201 Waldrop CV. Decatur, Georgia| 404-644-7930 | smartysport3@gmail.com"
+resume_header_intro: "<p> I love art and I always loved marine life.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -26,9 +26,9 @@ resume_looking_for_work:        "yes"
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
+resume_section_education:       I am a honor roll student but my academic record has drop ever since 6th grade but has gone up now and I am a 10th grader now with an outstanding GPA of 3.375 and proud to be the class of 2020.
+resume_section_projects:        4-H community project.
+resume_section_skills:          I am a good drawer, I cook good cheese cake, and I play the Harp.
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
