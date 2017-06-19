@@ -9,13 +9,13 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Isiah G.Hill, Jr."
-resume_title:                   "Nuclear Safety Inspector"
+resume_title:                   "GitHub Scholars"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+  "smartysport3@gmail.com"
+resume_header_contact_info: "14201 Waldrop CV. Decatur, Georgia| 404-644-7930 | smartysport3@gmail.com"
+resume_header_intro: "<p></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
