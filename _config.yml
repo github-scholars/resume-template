@@ -9,13 +9,13 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Isiah G.Hill, Jr."
-resume_title:                   "GitHub Scholars"
+resume_title:                   "Marine Biologist, Animator,and Chef"
 resume_contact_email:
   "smartysport3@gmail.com"
 resume_header_contact_info: "14201 Waldrop CV. Decatur, Georgia| 404-644-7930 | smartysport3@gmail.com"
-resume_header_intro: "<p></p>"
+resume_header_intro: "<p> I love art and I always loved marine life.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
