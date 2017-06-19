@@ -1,8 +1,13 @@
 # Recognitions
-- award:
-  organization:
-  year:
-  summary:
+- award: All A Honor Role
+  organization: Campbell Middle School
+  year: 2016
+  summary: Awarded for getting all A's.
+  
+  - award: Attendance
+  organization: Campbell Middle School
+  year: 2016
+  summary: Awarded for not being absent for more than two days all year.
 
 
 #- award: Outstanding Achievement
