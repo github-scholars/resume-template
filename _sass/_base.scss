@@ -7,12 +7,12 @@
 }
 
 html {
-  background: $000000;
+  background: "#000000"
 }
 
 body{
   @include serif;
-  color: $FFFFFF;
+  color: "#FFFFFF"
   font-size: 16px;
   line-height: 1.5;
 }
