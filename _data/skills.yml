@@ -1,13 +1,19 @@
 # Skills
 # My skills
 - skill: Coding
-  description:
+  description: I like to code and am good at it when I know what I am doing, so even if I don't know the language now, I'm sure I can learn.
 
 - skill: Filing
   description: Putting documents in order based on the employer's needs.
 
 - skill: Processing
   description:
+
+- skill: AutoCAD
+  description: Drafting innovative designs more efficiently using a computer program.
+  
+- skill: Hand Drafting
+  description: Utilizing physical drafting tools to draw and plan designs on paper.
 
 # Donut design
 #- skill: Donut design
