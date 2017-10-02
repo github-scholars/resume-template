@@ -1,10 +1,5 @@
 # Jobs
 #High School Clubs & Extracurriculars
-- company: High School
-  position: Student
-  duration: Aug, 2016 &mdash; Present
-  summary:
-
 - company: Latin Club
   position: Member
   duration: Sep, 2016 &mdash; Present
@@ -12,9 +7,28 @@
 
 - company: GitHub Scholars
   position: Scholar
-  duration: May, 2017 &mdash; Present
+  duration: May, 2017 &mdash; June, 2017
   summary: Built my own Kano computer, learned how to code and program, brainstormed projects to do with social impact(s), and trained with GitHub trainers in all things Git and GitHub.
+  
+- company: Book Club
+  position: Member
+  duration: Aug, 2017 &mdash; Present
+  summary: We share our thoughts on books we have read and/or are reading, as well as, recommend stories to fellow book lovers.
 
+- company: Science Olympiad
+  position: Member
+  duration: Aug, 2017 &mdash; Present
+  summary: 
+
+- company: Circuit Runners &mdash; Robotics Club
+  position: Member
+  duration: Aug, 2017 &mdash; Present
+  summary: We build and program robots in preparation for competitions.
+  
+- company: Computer Club
+  position: Member
+  duration: Aug, 2017 &mdash; Present
+  summary: In this club the members bond over computers as we learn different computer skills which include coding and photoshop.
 
 # Springfield Nuclear Power Plant
 #- company: Springfield Nuclear Power Plant
