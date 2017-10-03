@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Leah M. Fontenot"
 resume_title:                   "Computer Programmer"
 resume_contact_email:
